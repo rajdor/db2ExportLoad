@@ -1,0 +1,15 @@
+{
+   "SOURCE_DATABASE":"bludb"	
+  ,"SOURCE_USER":"bluadmin"
+  ,"SOURCE_PASSWORD":"bluadmin"
+  ,"SOURCE_SCHEMA":"TESTDATA"
+  ,"SOURCE_TABLE":"CLAIM"
+
+  ,"TARGET_DATABASE":"bludb"	
+  ,"TARGET_USER":"bluadmin"
+  ,"TARGET_PASSWORD":"bluadmin"
+  ,"TARGET_SCHEMA":"TESTDATA"
+  ,"TARGET_TABLE":"CLAIM2"
+  
+  ,"OPTION":"REPLACE"
+}
